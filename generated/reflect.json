@@ -1,0 +1,20 @@
+[
+    {
+        "properties": [
+            {
+                "type": "int",
+                "name": "mId",
+                "property_attr": {}
+            },
+            {
+                "type": "std::string",
+                "name": "mName",
+                "property_attr": {}
+            }
+        ],
+        "functions": [],
+        "source_file": "E:/ClionProjects/runtime/src/test/Player.h",
+        "class_attr": {},
+        "class_name": "Player"
+    }
+]
